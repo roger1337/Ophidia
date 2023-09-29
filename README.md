@@ -2,11 +2,15 @@
 
 Ophidia is a Minecraft pathfinder with the goal of emulating realistic player movement.
 
-### How can I use this?
+## How can I use this?
 
 Create a 1.8.9 Forge project and copy the code provided. Inside Minecraft, run the /travel <x> <y> <z> command.
 
-### Technical
+## Demonstration
+
+
+
+## Technical
 
 Ophidia uses A* along with string-pulling optimisations, finding valid paths across nodes computed by the A* algorithm.
 

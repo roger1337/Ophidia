@@ -17,5 +17,5 @@ Ophidia uses A* along with string-pulling optimisations, finding valid paths acr
 
 The license is intentionally unrestricting so you may use this freely in projects where you would find Ophidia useful. All I ask for in return is a star 🙂.
 
-
+P.s. Please don't use this in multiplayer scenarios for the purpose of cheating. It is also detectable in some ways and can get you banned.
 

@@ -1,6 +1,6 @@
 # Ophidia
 
-Ophidia is a Minecraft pathfinder with the goal of emulating realistic player movement.
+Ophidia is a Minecraft pathfinder with the goal of emulating realistic player movement, despite movement speed.
 
 ## How can I use this?
 

@@ -1,4 +1,4 @@
-# Ophidia
+# 🐍 Ophidia
 
 Ophidia is a Minecraft pathfinder with the goal of emulating realistic player movement, despite movement speed.
 

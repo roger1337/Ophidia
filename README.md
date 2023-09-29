@@ -17,7 +17,7 @@ Ophidia uses A* along with string-pulling optimisations, finding valid paths acr
 
 The license is intentionally unrestricting so you may use this freely in projects where you would find Ophidia useful. All I ask for in return is a star 🙂.
 
-It is built in forge, but can be easily repurposed to work with server plugins for uses such as PVP bots and NPC movement.
+It is built in forge for ease of testing, but can be easily repurposed to work with server plugins for uses such as PVP bots and NPC movement.
 
 > Please don't use this in multiplayer scenarios for the purpose of cheating. It is also detectable in some ways I won't reveal and can get you banned.
 
